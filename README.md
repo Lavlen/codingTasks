@@ -76,7 +76,7 @@ The script performs the following tasks:
 - Loads and preprocesses the dataset.
 - Analyzes the sentiment polarity of sample reviews.
 - Computes a similarity score between two preprocessed reviews.
-
+- ![Alt text](images/Reviewallresults2.jpg "Project Flowchart")
 ---
 
 ## Credit

@@ -18,4 +18,12 @@ This project demonstrates sentiment analysis and text similarity calculations us
 To run this project locally, follow these steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   https://github.com/Lavlen/codingTasks.git
+
+---
+
+## Usage
+
+---
+
+## Credit
